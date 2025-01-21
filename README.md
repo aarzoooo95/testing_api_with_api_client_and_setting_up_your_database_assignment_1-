@@ -47,7 +47,7 @@ The task is to implement and test an API that:
 ## **API Requirements**
 
 ### **Endpoint**
-`POST /students/above-threshold`
+`POST   `
 
 ### **Request Body**
 The request must contain the following field:
